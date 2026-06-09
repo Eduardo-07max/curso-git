@@ -1,0 +1,1 @@
+Hola, estoy aprendiendo git desde la terminal de windows.
